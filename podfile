@@ -1,0 +1,11 @@
+platform:ios, '11.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target 'DYJW' do
+    pod 'Alamofire'
+    pod 'SnapKit'
+    pod 'SwiftSoup'
+    pod 'Kingfisher'
+end
+
